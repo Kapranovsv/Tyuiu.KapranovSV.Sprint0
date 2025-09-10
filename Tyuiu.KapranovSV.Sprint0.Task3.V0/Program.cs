@@ -3,7 +3,7 @@ internal class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine(DataService.Sum(7,7));
+        Console.WriteLine(DataService.Sum(7, 7));
         Console.ReadLine();
     }
 }
