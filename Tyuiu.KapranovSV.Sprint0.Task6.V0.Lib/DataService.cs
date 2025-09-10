@@ -19,7 +19,7 @@
 
             while (index < numbers.Length)
             {
-                total = total + numbers[index];
+                total = total - numbers[index];
                 index++;
             }
             return total;
